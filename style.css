@@ -1,0 +1,22 @@
+.buttons {
+    border: 2px solid black;
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.buttons > div {
+    padding: 10px;
+    border: 3px solid black ;
+    align-items: center;
+}
+
+body > h2 {
+    text-align: center;
+}
+
+body {
+border: 3px solid black;
+width: 75%;
+text-align: center;
+}
